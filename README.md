@@ -10,3 +10,4 @@ When switching the currency using the website’s currency selector, the screen 
 Bug 3: Sign In Button Text Misaligned Vertically
 
 On the Sign In page, the caption inside the “Sign In” button is not vertically centered. This is a user interface alignment issue that makes the button look unprofessional and poorly designed. While it does not affect functionality, it impacts the visual quality and user experience of the login interface.
+
